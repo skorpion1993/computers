@@ -1,0 +1,11 @@
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\bin\x86\Debug\inventory.exe.config
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\bin\x86\Debug\inventory.exe
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\bin\x86\Debug\inventory.pdb
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.Form1.resources
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.Form2.resources
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.exe
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.pdb
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\obj\x86\Debug\inventory.csprojResolveAssemblyReference.cache
+C:\Users\3dmak\Documents\Visual Studio 2017\Projects\inventory\inventory\bin\x86\Debug\База даннх.mdb
